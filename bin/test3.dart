@@ -1,3 +1,5 @@
+import 'dart:io';
+
 void main() {
-  print("test 3");
+  stdout.write('hello boy,whats your name');
 }
